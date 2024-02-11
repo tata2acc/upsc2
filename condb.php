@@ -4,8 +4,8 @@
 
     $host="localhost";
 	$user="root";
-	//$pwd="7ci838a!nK";
-	$pwd="";
+	$pwd="7ci838a!nK";
+	//$pwd="";
 	$db="ablerex_ups";
 
 	$conn = mysqli_connect($host, $user, $pwd)or die("เชื่อมต่อฐานข้อมูลไม่ได้");
